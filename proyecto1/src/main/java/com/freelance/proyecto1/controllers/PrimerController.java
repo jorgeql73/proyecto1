@@ -8,7 +8,7 @@ public class PrimerController {
 
     @GetMapping("/")
     public String saludo(){
-        return "Bienvenidos!!!";
+        return "Bienvenidos al nuevo proyecto java!!!";
     }
 
 }
